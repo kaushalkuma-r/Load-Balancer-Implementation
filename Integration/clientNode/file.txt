@@ -1,0 +1,1 @@
+{'vm_cpu': ['175.0', '175.0'], 'vm_mem': ['13.2', '4.8'], 'host_specs': {'Total Memory': '15805.8', 'Free Memory': '202.5', 'Used Memory': '6342.5', 'Buffer Memory': '9260.7'}}

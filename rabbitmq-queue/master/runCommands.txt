@@ -1,0 +1,7 @@
+10.10.79.200 getInfo *****
+10.10.79.200 checkResults *****
+10.10.79.200 create_vm fso2t
+10.10.79.200 run_task fso2t
+10.10.79.200 create_vm gFcXB
+10.10.79.200 run_task gFcXB10.10.79.200 getInfo *****
+10.10.79.200 checkResults *****
