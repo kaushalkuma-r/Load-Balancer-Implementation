@@ -1,6 +1,6 @@
 # Project Rōdobaransa
 
-This project contains our implentation of a Virtual Machine Mapping Policy based on load balancing in private cloud environment.
+This project contains our implementation of a Virtual Machine Mapping Policy based on load balancing in private cloud environment.
 
 The policy uses the resource consumption of the running virtual machine and the self-adaptive weighted approach, which resolves the load balancing conflicts of each independent resource caused by different demand for resources of cloud applications. Meanwhile, it uses probability approach to ease the problem of load crowding in the concurrent users scene.
 
